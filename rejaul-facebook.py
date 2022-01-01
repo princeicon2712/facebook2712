@@ -45,7 +45,7 @@ def function(email,passw,i):
                 return True
         return False
 
-print('\n---------- Welcome To Facebook BruteForce ----------\n')
+print('\n---------- i am hacker Rejaul/Facebook BruteForce ----------\n')
 file=open('passwords.txt','r')
 
 email=input('Enter Email/Username : ')
